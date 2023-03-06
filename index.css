@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Graduate&display=swap');
+
+body {
+    background-color: #000;
+    overflow: hidden;
+   }
+
+main {
+    font-family: 'Graduate', cursive;
+    font-size: 90px;
+    text-align: center;
+    margin-top: auto;
+ 
+    height: 100%;
+}
+
+main p {
+    color: #fff;
+}
+
+main img {
+    margin-top: 8%;
+}
